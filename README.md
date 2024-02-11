@@ -2,11 +2,7 @@
 External interrupt code in low level assembly on STM32F100RB dev board
 
 Values at register five
-0010 0110 0000 0000,
-0010 0111 0000 0000,
-0010 1000 0000 0000,
-0010 1001 0000 0000,
-0010 1010 0000 0000,
-0010 1011 0000 0000,
+![image](https://github.com/MrEstefano/External-Interrupt-by-assembly-code/assets/79326044/43dbd30f-79cc-4b39-bc8a-fba8688afa5c)
+
 
 to get sequence 00,01,10,11
